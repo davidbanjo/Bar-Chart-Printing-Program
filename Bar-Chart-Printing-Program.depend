@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1679041095 source:c:\users\binat\onedrive\desktop\c programming files\bar-chart-printing-program\main.c
+	<stdio.h>
+	<stdlib.h>
+
